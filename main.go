@@ -3,8 +3,8 @@ package main
 import (
     "log"
     "net/http"
-  	"net/http/httputil"
-  	"net/url"
+    "net/http/httputil"
+    "net/url"
     "github.com/gorilla/mux"
     "github.com/namsral/flag"
 )
